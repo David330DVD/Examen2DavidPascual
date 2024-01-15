@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExamenDavidPascual</string>
+    <string name="guardar">Guardar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="elegir_fecha">Elegir Fecha</string>
+    <string name="fuente_a_18">Fuente a 18</string>
+    <string name="fuente_a_22">Fuente a 22</string>
+    <string name="completada">Completada</string>
+    <string name="name">Name</string>
+    <string name="volver">Volver</string>
+</resources>

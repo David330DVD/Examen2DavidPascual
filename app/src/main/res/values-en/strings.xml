@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExamenDavidPascual</string>
+    <string name="guardar">Save</string>
+    <string name="limpiar">Clean</string>
+    <string name="elegir_fecha">Choose a date</string>
+    <string name="fuente_a_18">Font 18</string>
+    <string name="fuente_a_22">Font 22</string>
+    <string name="completada">Completed</string>
+    <string name="name">Name</string>
+</resources>
